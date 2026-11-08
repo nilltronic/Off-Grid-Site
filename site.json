@@ -176,6 +176,10 @@
             ],
             [
               {
+                "type": "text",
+                "html": "<br><div><br></div><div><br></div><div><br></div>"
+              },
+              {
                 "type": "image",
                 "src": "assets/1794125149544-Screenshot_2026-11-08_080529.png",
                 "alt": "Screenshot 2026-11-08 080529"
