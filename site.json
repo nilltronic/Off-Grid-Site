@@ -155,6 +155,26 @@
           "fn": "Simple Site With Music.zip",
           "name": "Simple Site With Music",
           "size": 1599984
+        },
+        {
+          "type": "divider",
+          "style": "line"
+        },
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "Simple Video Site"
+              },
+              {
+                "type": "text",
+                "html": "A video that plays once the page is opened.<div><br></div><div>Rplace the MP4 file with your own and rename it \"video\".</div>"
+              }
+            ],
+            []
+          ]
         }
       ]
     }
