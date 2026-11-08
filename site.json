@@ -88,6 +88,11 @@
       "name": "Sample SItes",
       "blocks": [
         {
+          "type": "hero",
+          "title": "Sample Sites.",
+          "sub": "Some sample site for you to download, edit and host."
+        },
+        {
           "type": "columns",
           "cols": [
             [
