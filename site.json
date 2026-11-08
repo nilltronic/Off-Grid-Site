@@ -121,6 +121,35 @@
         {
           "type": "divider",
           "style": "line"
+        },
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "Simple Site With Audio"
+              },
+              {
+                "type": "text",
+                "html": "One page containing a heading, text, image and audio file.<div><br></div><div>Open the HTML file to edit the heading and text. Replace the JPG with your own and rename it \"image\". Replace the MP3 and rename it \"music\".&nbsp;</div>"
+              }
+            ],
+            [
+              {
+                "type": "image",
+                "src": "assets/1794124441267-Screenshot_2026-11-08_075248.png",
+                "alt": "Screenshot 2026-11-08 075248"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "file",
+          "src": "files/1794124463408-Simple_Site_With_Music.zip",
+          "fn": "Simple Site With Music.zip",
+          "name": "Simple Site With Music",
+          "size": 1599984
         }
       ]
     }
