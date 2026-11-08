@@ -28,7 +28,7 @@
               },
               {
                 "type": "text",
-                "html": "I wanted a devise that could serve a webpage to other people, mainly as a fun prank while on the bus or in a coffee shop. Fairly childish, I know!"
+                "html": "I wanted a device that could serve a webpage to other people, mainly as a fun prank while on the bus or in a coffee shop. Fairly childish, I know!"
               },
               {
                 "type": "heading",
@@ -51,8 +51,38 @@
           "fold": true,
           "ft": "About Off-Grid-Site",
           "fo": false
+        },
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "Setup the device."
+              },
+              {
+                "type": "text",
+                "html": "1. Power the device with a powerbank, phone charger or laptop USB.<div>2. From a mobile phone or PC, join the network created by Off-Grid-Site. On first boot, it will show up as \"Off-Grid-Site\" but you can change it in the settings to whatever you like.</div><div>3. You should be directed to the Off-Grid-Site home page. From there, you can access the admin settings and upload your own HTML site. If you are not automatically taken to the site, open your browser and go to http://wifi.lan/admin</div><div><br></div><div>Off-Grid-Site can store HTML files in its onboard memory, but if your Off-Grid-Site has a micro sd card slot, you have the ability to store bigger files.&nbsp;</div><div>It is advised to add an admin password to prevent anyone from accessing the settings page.</div>"
+              },
+              {
+                "type": "heading",
+                "text": "How to make a webpage?"
+              },
+              {
+                "type": "text",
+                "html": "I have designed a few <a href=\"sample-sites.html\">sample sites</a> that can be uploaded to the device, so you have an idea of how things work and can instantly get started hosting content.<div>There are many free HTML editors on the internet that allow you to make simple webpages and sites.</div><div>I made a website creator (<a href=\"https://davisonlearning12.github.io/sitewright/\">Sightwright</a>) on GitHub that helps anyone design websites and pages; in fact, it is what this site was designed with. All you need is a free GitHub account! Not only will your HTML code be available to download for use with Off-Grid-Site, but it can also be viewed by anyone on the internet if you want.&nbsp;</div><div><br></div>"
+              }
+            ]
+          ],
+          "fold": true,
+          "ft": "Instructions",
+          "fo": false
         }
       ]
+    },
+    {
+      "name": "Sample SItes",
+      "blocks": []
     }
   ]
 }
