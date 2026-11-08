@@ -86,7 +86,31 @@
     },
     {
       "name": "Sample SItes",
-      "blocks": []
+      "blocks": [
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "Simple Site"
+              },
+              {
+                "type": "text",
+                "html": "One page containing a heading, text and an image."
+              }
+            ],
+            []
+          ]
+        },
+        {
+          "type": "file",
+          "src": "files/1794123812819-Simple_Site.zip",
+          "fn": "Simple Site.zip",
+          "name": "Simple Site",
+          "size": 13333
+        }
+      ]
     }
   ]
 }
