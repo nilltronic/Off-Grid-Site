@@ -20,7 +20,31 @@
               },
               {
                 "type": "text",
-                "html": "Off-Grid-Site is a device that stores HTML websites and serves them on the go. It generates its own SSID and mobile hotspot, so once a user connects, whatever HTML code you added will be served."
+                "html": "Off-Grid-Site is a device that stores HTML websites and serves them on the go. It generates its own SSID and mobile hotspot, so once a user connects, whatever HTML code you add is hosted."
+              },
+              {
+                "type": "heading",
+                "text": "Why?"
+              },
+              {
+                "type": "text",
+                "html": "I wanted a devise that could serve a webpage to other people, mainly as a fun prank while on the bus or in a coffee shop. Fairly childish, I know!"
+              },
+              {
+                "type": "heading",
+                "text": "What can it be used for?"
+              },
+              {
+                "type": "text",
+                "html": "It reall is down to your imagination! You can relatively host anything and serve it to anyone in the a local area."
+              },
+              {
+                "type": "heading",
+                "text": "Who can see the hosted pages?"
+              },
+              {
+                "type": "text",
+                "html": "<div>Anyone locally who joins the network will be directed automatically to your hosted website.&nbsp;</div><div><br></div><div>What does local mean?</div>• Indoors (with walls and floors): Around 10 to 20 meters (30 to 65 feet) before signal degradation or dropped connections occur.<div>• Outdoors (standard / reliable connection): Up to 30 to 100 meters (100 to 330 feet) with a standard onboard PCB antenna.</div>"
               }
             ]
           ],
