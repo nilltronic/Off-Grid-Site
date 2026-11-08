@@ -114,7 +114,7 @@
               }
             ]
           ],
-          "split": "1:2"
+          "split": "1:3"
         },
         {
           "type": "file",
@@ -147,7 +147,8 @@
                 "alt": "Screenshot 2026-11-08 075248"
               }
             ]
-          ]
+          ],
+          "split": "1:3"
         },
         {
           "type": "file",
@@ -180,7 +181,8 @@
                 "alt": "Screenshot 2026-11-08 080529"
               }
             ]
-          ]
+          ],
+          "split": "1:3"
         },
         {
           "type": "file",
@@ -188,6 +190,40 @@
           "fn": "Simple Video Site.zip",
           "name": "Simple Video Site",
           "size": 414451
+        },
+        {
+          "type": "divider",
+          "style": "line"
+        },
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "Simple Audio Player"
+              },
+              {
+                "type": "text",
+                "html": "A audio player.<div><br></div><div>Add MP3 files to the assets folder. If you want album art, add a JPG of the art and rename it whatever your MP3 is named.</div>"
+              }
+            ],
+            [
+              {
+                "type": "image",
+                "src": "assets/1794140604987-Screenshot_2026-11-08_122307.png",
+                "alt": "Screenshot 2026-11-08 122307"
+              }
+            ]
+          ],
+          "split": "1:3"
+        },
+        {
+          "type": "file",
+          "src": "files/1794141248088-Simple_Audio_Player.zip",
+          "fn": "Simple Audio Player.zip",
+          "name": "Simple Audio Player",
+          "size": 4440
         }
       ]
     }
