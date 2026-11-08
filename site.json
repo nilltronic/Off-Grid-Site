@@ -170,11 +170,24 @@
               },
               {
                 "type": "text",
-                "html": "A video that plays once the page is opened.<div><br></div><div>Rplace the MP4 file with your own and rename it \"video\".</div>"
+                "html": "A video that plays once the page is opened.<div><br></div><div>There are three background \"index.html\" files to choose from: simple, wallpaper, and disco. Choose the landing page from the Off-Grid-Site settings page.</div><div><br></div><div>Replace the MP4 file with your own and rename it \"video\".</div>"
               }
             ],
-            []
+            [
+              {
+                "type": "image",
+                "src": "assets/1794125149544-Screenshot_2026-11-08_080529.png",
+                "alt": "Screenshot 2026-11-08 080529"
+              }
+            ]
           ]
+        },
+        {
+          "type": "file",
+          "src": "files/1794125098471-Simple_Video_Site.zip",
+          "fn": "Simple Video Site.zip",
+          "name": "Simple Video Site",
+          "size": 414451
         }
       ]
     }
