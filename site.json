@@ -97,14 +97,15 @@
               },
               {
                 "type": "text",
-                "html": "One page containing a heading, text and an image."
+                "html": "One page containing a heading, text and an image.<div><br></div><div>Open the HTML file to edit the heading and text. Replace the image with your own and rename it \"image\".</div>"
               }
             ],
             [
               {
                 "type": "image",
                 "src": "assets/1794123907542-Screenshot_2026-11-08_074449.png",
-                "alt": "Screenshot 2026-11-08 074449"
+                "alt": "Screenshot 2026-11-08 074449",
+                "w": 100
               }
             ]
           ],
@@ -116,6 +117,10 @@
           "fn": "Simple Site.zip",
           "name": "Simple Site",
           "size": 13333
+        },
+        {
+          "type": "divider",
+          "style": "line"
         }
       ]
     }
