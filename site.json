@@ -1,5 +1,5 @@
 {
-  "title": "My site",
+  "title": "Off-Grid-Site",
   "accent": "#1f4fd8",
   "pages": [
     {
@@ -7,17 +7,22 @@
       "blocks": [
         {
           "type": "hero",
-          "title": "Welcome",
-          "sub": "Oh, hi there! You found my website..."
+          "title": "Off-Grid-Site",
+          "sub": "Instructions, information and sample sites for the off grid site device."
         },
         {
-          "type": "text",
-          "html": "<div>I hope you have a great day. Here is a picture of a cute kitten.</div>"
-        },
-        {
-          "type": "image",
-          "src": "assets/1793347711219-kitten.jpg",
-          "alt": "kitten"
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "text",
+                "html": "Off-Grid-Site is a devise which you can add HTML websites to and serve on the go. It generates its own SSID and mobile hotspot, so ones a user connects, whatevre HTML code you added will be served."
+              }
+            ]
+          ],
+          "fold": true,
+          "ft": "What is Off-Grid-Site",
+          "fo": false
         }
       ]
     }
