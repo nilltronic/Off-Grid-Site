@@ -100,8 +100,15 @@
                 "html": "One page containing a heading, text and an image."
               }
             ],
-            []
-          ]
+            [
+              {
+                "type": "image",
+                "src": "assets/1794123907542-Screenshot_2026-11-08_074449.png",
+                "alt": "Screenshot 2026-11-08 074449"
+              }
+            ]
+          ],
+          "split": "1:2"
         },
         {
           "type": "file",
