@@ -15,13 +15,17 @@
           "cols": [
             [
               {
+                "type": "heading",
+                "text": "What is Off-Grid-Site?"
+              },
+              {
                 "type": "text",
-                "html": "Off-Grid-Site is a devise which you can add HTML websites to and serve on the go. It generates its own SSID and mobile hotspot, so ones a user connects, whatevre HTML code you added will be served."
+                "html": "Off-Grid-Site is a device that stores HTML websites and serves them on the go. It generates its own SSID and mobile hotspot, so once a user connects, whatever HTML code you added will be served."
               }
             ]
           ],
           "fold": true,
-          "ft": "What is Off-Grid-Site",
+          "ft": "About Off-Grid-Site",
           "fo": false
         }
       ]
