@@ -228,6 +228,36 @@
         {
           "type": "divider",
           "style": "line"
+        },
+        {
+          "type": "columns",
+          "cols": [
+            [
+              {
+                "type": "heading",
+                "text": "Off-Grid-Chat"
+              },
+              {
+                "type": "text",
+                "html": "A simple message board. Anyone logged on to the site can post and reply to other users. Messages save even after a reboot. Deleting the site from Off-grid-Site will erase all messages."
+              }
+            ],
+            [
+              {
+                "type": "image",
+                "src": "assets/1794604592803-Screenshot_2026-11-13_211140.jpg",
+                "alt": "Screenshot 2026-11-13 211140"
+              }
+            ]
+          ],
+          "split": "1:2"
+        },
+        {
+          "type": "file",
+          "src": "files/1794604688943-Off-Grid-Chat.zip",
+          "fn": "Off-Grid-Chat.zip",
+          "name": "Off Grid Chat",
+          "size": 6686
         }
       ]
     }
