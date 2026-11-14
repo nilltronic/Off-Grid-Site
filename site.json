@@ -235,7 +235,7 @@
             [
               {
                 "type": "heading",
-                "text": "Simple Chat"
+                "text": "Simple Chat Site"
               },
               {
                 "type": "text",
@@ -254,10 +254,10 @@
         },
         {
           "type": "file",
-          "src": "files/1794641682398-Simple_Chat.zip",
-          "fn": "Simple Chat.zip",
-          "name": "Simple Chat",
-          "size": 7105
+          "src": "files/1794641863416-Simple_Chat_Site.zip",
+          "fn": "Simple Chat Site.zip",
+          "name": "Simple Chat Site",
+          "size": 7193
         }
       ]
     }
